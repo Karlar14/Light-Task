@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class OrderMovement : MonoBehaviour{
     float spawnTime;
-    public GameObject customer;
+    public GameObject Customer;
     public Vector3 startPos;
     public Vector3 speed;
     public Vector3 cutOff;
